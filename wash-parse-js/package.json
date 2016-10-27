@@ -1,0 +1,12 @@
+{
+  "name": "wash-parse",
+  "version": "0.0.1",
+  "description": "Parse WebAssembly header files.",
+  "main": "index.js",
+  "repository": {
+    "url": "github.com/couchand/wash-tools",
+    "type": "git"
+  },
+  "author": "Andrew Couch <wash-tools@andrewcou.ch>",
+  "license": "MIT"
+}
